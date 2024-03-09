@@ -1,4 +1,4 @@
-#Cook
+# Cook
 
 **Discover recipes based on the ingredients you have at home!**
 
